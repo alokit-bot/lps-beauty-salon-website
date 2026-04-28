@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lps-beauty-salon-website/static/css/main.8aa8db8e.css",
+    "main.js": "/lps-beauty-salon-website/static/js/main.03837d0b.js",
+    "index.html": "/lps-beauty-salon-website/index.html",
+    "main.8aa8db8e.css.map": "/lps-beauty-salon-website/static/css/main.8aa8db8e.css.map",
+    "main.03837d0b.js.map": "/lps-beauty-salon-website/static/js/main.03837d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa8db8e.css",
+    "static/js/main.03837d0b.js"
+  ]
+}
